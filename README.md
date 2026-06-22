@@ -162,13 +162,22 @@ Skills: Python | Pandas | Data Visualization | SQL | Power BI | EDA
 ## ⭐ Project Outcome
 
 ✔ Data Cleaning & Preprocessing
+
+
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ Feature Engineering
+
 ✔ Statistical Analysis
+
 ✔ Hypothesis Testing
+
 ✔ Time Series Analysis
+
 ✔ SQL-based Business Queries
+
 ✔ Excel Validation
+
 ✔ Power BI Dashboard
 ✔ Business Insights & Recommendations
 ✔ End-to-End Data Analytics Project
